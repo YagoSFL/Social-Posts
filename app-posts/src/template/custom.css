@@ -1,0 +1,62 @@
+.tiny {
+    font-size: 1.2rem !important;
+}
+.small{
+    font-size: 1.5rem !important;
+}
+.normal {
+    font-size: 2rem !important;
+}
+.medium {
+    font-size: 3rem !important;
+}
+.large {
+    font-size: 4rem !important;
+}
+
+/* label color */
+.input-field label {
+    color: #212121;
+  }
+  /* label focus color */
+  .input-field #user:focus + label, #post:focus + label {
+    color: #212121;
+  }
+  /* label underline focus color */
+  .input-field #user:focus, #post:focus {
+    border-bottom: 1px solid #1565c0;
+    box-shadow: 0 1px 0 0 #1565c0;
+  }
+  /* icon prefix focus color */
+  .input-field .prefix.active {
+    color: #1565c0;
+  }
+
+.font-title {
+    font-weight: bold;
+}
+.posit{
+    margin-top: 20px;
+    float: left;
+    width: 100%;
+}
+.btn-floating, .btn {
+    margin-right: 5px;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.unclicked {
+    color: #424242 !important;
+}
+
+.clicked {
+    color: #1565c0 !important;
+}
+
+.color {
+    border-left: 5px solid #1565c0;
+}
