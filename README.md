@@ -1,6 +1,6 @@
 # Introdução
 
-A aplicação tem como objetivo simples de demonstar ações de criar posts 
+A aplicação tem o simples objetivo de demonstar ações de criar posts 
 e comentar nos  mesmos, como em uma rede social.
 
 # Sobre o build
