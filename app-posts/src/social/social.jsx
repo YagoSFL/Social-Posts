@@ -96,7 +96,6 @@ export default class Social extends Component {
               Object.assign({}, this.state.post[i], postagem)})
         this.setState({...this.state, post})
         this.atualiza()
-        console.log(this.state.post)
     }
 
     handleDislike(postagem) {
